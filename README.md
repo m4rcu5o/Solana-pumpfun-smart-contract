@@ -1,4 +1,4 @@
-# Pump fun smart contract fork
+# Pump.fun smart contract fork
 
 A solana token launch Pump.fun smart contract forking & integrating meteora migration.
 
