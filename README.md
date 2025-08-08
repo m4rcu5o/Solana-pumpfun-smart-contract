@@ -3,7 +3,7 @@
 Solana token launch platform for forking pump.fun logic & migrating meteora. 
 
 ## Contact
-- [Telegram](https://t.me/pup5ol)
+- [Telegram](https://t.me/m4rcu5sol)
 - [X](https://x.com/Pup5ol)
 
 ## Example
