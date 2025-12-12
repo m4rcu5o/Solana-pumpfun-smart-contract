@@ -13,11 +13,6 @@
 
 ---
 
-## 🔍 SEO-Optimized Tags
-**Keywords:** solana pumpfun smart contract, pumpfun fork, solana bonding curve contract, pumpfun clone, solana token launch contract, meteora migration, pumpfun bonding curve, solana token deploy contract.
-
----
-
 ## 📘 Overview
 
 This repository provides a **high-quality fork of the Pump.fun smart contract**, enabling developers to launch Solana tokens using the same **bonding curve mechanics**, **protocol fee structure**, and **Meteora migration workflow** used by Pump.fun.
@@ -68,7 +63,7 @@ A slot‑based, piecewise linear fee mechanic:
 ---
 
 ## 📞 Contact  
-- **Telegram:** https://t.me/idioRusty
+- **Telegram:** [RRR](https://t.me/microRustyme)
 
 ---
 
